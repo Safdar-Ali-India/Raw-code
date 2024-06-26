@@ -3,7 +3,7 @@
         width: 410px;
         height: 285px;
     }
-    }
+   
     .fundamental1 {
         width: 394px;
         height: 294px;
@@ -15,4 +15,10 @@
     .front{
         text-align:center;
     }
+}
+@media only screen and (min-width: 601px) and (max-width: 1024px) {
+
+
+
+    
 }
